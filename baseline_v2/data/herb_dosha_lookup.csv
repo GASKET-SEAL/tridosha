@@ -1,0 +1,361 @@
+name,botanical_name,pacify,aggravate,tridosha,rasa,guna,virya,vipaka
+Tulsi,Ocimum sanctum,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Amla,Emblica officinalis,tridosha,,True,Amla,Laghu; Snigdha,Sheeta,Madhura
+Ashwagandha,Withania somnifera,Vata; Kapha,Pitta,False,Tikta; Kashaya,Guru; Snigdha,Ushna,Madhura
+Giloy,Tinospora cordifolia,tridosha,,True,Tikta,Laghu; Sara,Ushna,Madhura
+Shatavari,Asparagus racemosus,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Nagarmotha,Cyperus rotundus,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Agnimantha,Premna integrifolia,Vata,Pitta,False,Tikta,Laghu,Ushna,Katu
+Rohitaka,Tecomella undulata,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Chopchini,Smilax china,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Bhringraj,Eclipta alba,Vata; Pitta,Kapha,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Jatamansi,Nardostachys jatamansi,Vata; Pitta,Kapha,False,Tikta,Laghu; Snigdha,Sheeta,Madhura
+Chandana,Santalum album,Pitta,Vata,False,Madhura; Tikta,Snigdha,Sheeta,Madhura
+Kutaj,Holarrhena antidysenterica,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Rasona (Garlic),Allium sativum,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Kanchanar,Bauhinia variegata,Kapha; Pitta,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Ushna,Katu
+Karpura (Camphor),Cinnamomum camphora,Kapha,Pitta,False,Tikta; Katu,Laghu; Ruksha,Sheeta,Katu
+Pushkarmool,Inula racemosa,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Bakuchi,Psoralea corylifolia,Kapha,Pitta; Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Vidarikand,Pueraria tuberosa,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Ajmoda,Apium graveolens,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Patola,Trichosanthes dioica,Pitta,Vata,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Vrikshamla,Garcinia indica,Kapha,Pitta,False,Amla,Laghu,Ushna,Katu
+Kumuda,Nymphaea alba,Pitta,Kapha,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Shigru,Moringa oleifera,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Parpataka,Fumaria indica,Pitta,Vata,False,Tikta,Laghu,Sheeta,Katu
+Indrayava,Holarrhena antidysenterica,Kapha; Pitta,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Kapikachhu,Mucuna pruriens,Vata,Kapha,False,Madhura,Snigdha,Ushna,Madhura
+Bala,Sida cordifolia,Vata,Kapha,False,Madhura,Snigdha; Guru,Sheeta,Madhura
+Tamalpatra,Cinnamomum tamala,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu,Ushna,Katu
+Chitrak,Plumbago zeylanica,Kapha; Vata,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Tagar,Valeriana wallichii,Vata; Pitta,Kapha,False,Tikta,Guru,Sheeta,Madhura
+Khadira,Acacia catechu,Kapha; Pitta,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Twak (Cinnamon),Cinnamomum verum,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Snigdha,Ushna,Katu
+Ela,Elettaria cardamomum,Kapha; Vata,Pitta,False,Madhura; Tikta,Laghu,Ushna,Katu
+Sariva,Hemidesmus indicus,Pitta; Vata,Kapha,False,Madhura; Tikta,Guru; Snigdha,Sheeta,Madhura
+Gorakhmundi,Sphaeranthus indicus,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Kokilaksha,Asteracantha longifolia,Vata; Pitta,Kapha,False,Tikta,Laghu,Sheeta,Madhura
+Yavani,Trachyspermum ammi,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Bhunimba,Andrographis paniculata,Pitta,Vata,False,Tikta,Laghu,Sheeta,Katu
+Chavya,Piper retrofractum,Kapha; Vata,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Palasha,Butea monosperma,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Karanja,Pongamia pinnata,Kapha,Pitta; Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Ahiphena,Papaver somniferum,Vata,Kapha; Pitta,False,Tikta; Katu,Guru; Snigdha,Ushna,Katu
+Danti,Baliospermum montanum,Kapha; Vata,Pitta,False,Katu,Tikshna; Laghu,Ushna,Katu
+Eranda,Ricinus communis,Vata,Pitta; Kapha,False,Madhura; Katu,Snigdha; Guru,Ushna,Madhura
+Guggulu,Commiphora mukul,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Bhallataka,Semecarpus anacardium,Kapha; Vata,Pitta,False,Katu; Tikta,Tikshna; Laghu,Ushna,Katu
+Vasaka,Adhatoda vasica,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Laksha,Laccifer lacca,Pitta; Kapha,Vata,False,Tikta; Kashaya,Ruksha,Sheeta,Katu
+Talisapatra,Abies webbiana,Kapha; Vata,Pitta,False,Katu,Laghu,Ushna,Katu
+Tamalaki,Phyllanthus niruri,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Shirisha,Albizia lebbeck,Kapha,Pitta; Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Babbula,Acacia nilotica,Kapha; Pitta,Vata,False,Kashaya,Ruksha; Laghu,Sheeta,Katu
+Kumkuma,Crocus sativus,Vata; Pitta,Kapha,False,Tikta; Madhura,Laghu,Ushna,Madhura
+Bilva,Aegle marmelos,Kapha; Vata,Pitta,False,Kashaya; Tikta,Laghu; Ruksha,Ushna,Katu
+Ashoka,Saraca asoca,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Devadaru,Cedrus deodara,Kapha; Vata,Pitta,False,Tikta,Laghu,Ushna,Katu
+Patala,Stereospermum suaveolens,Vata,Kapha; Pitta,False,Tikta,Laghu; Snigdha,Ushna,Madhura
+Dhataki,Woodfordia fruticosa,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu,Sheeta,Katu
+Yava,Hordeum vulgare,Kapha; Pitta,Vata,False,Kashaya; Madhura,Laghu; Ruksha,Sheeta,Katu
+Masha,Vigna mungo,Vata,Kapha; Pitta,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Chana,Cicer arietinum,Vata,Pitta; Kapha,False,Kashaya,Guru; Ruksha,Sheeta,Katu
+Matulunga,Citrus medica,Vata,Pitta,False,Amla,Laghu,Ushna,Madhura
+Dadima,Punica granatum,Pitta,Kapha,False,Madhura; Kashaya,Laghu,Sheeta,Madhura
+Tinduka,Diospyros peregrina,Pitta,Kapha; Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Draksha,Vitis vinifera,Vata; Pitta,Kapha,False,Madhura; Amla,Guru; Snigdha,Sheeta,Madhura
+Chakramarda,Cassia tora,Kapha,Pitta,False,Tikta; Kashaya,Laghu,Ushna,Katu
+Pashanabheda,Bergenia ligulata,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Lodhra,Symplocos racemosa,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Jati,Jasminum grandiflorum,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Shalparni,Desmodium gangeticum,Vata,Kapha; Pitta,False,Madhura; Tikta,Guru; Snigdha,Sheeta,Madhura
+Kantakari,Solanum surattense,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Gambhari,Gmelina arborea,Vata,Kapha,False,Tikta; Kashaya,Laghu; Snigdha,Sheeta,Katu
+Gojihva,Onosma bracteata,Pitta,Kapha,False,Tikta,Laghu,Sheeta,Madhura
+Aparajita,Clitoria ternatea,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Meshashringi,Gymnema sylvestre,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu,Sheeta,Katu
+Ikshu,Saccharum officinarum,Pitta; Vata,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Amrita,Tinospora cordifolia,tridosha,,True,Tikta; Kashaya,Laghu,Ushna,Madhura
+Shigru Patra,Moringa oleifera,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu,Ushna,Katu
+Haridra,Curcuma longa,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Mandukparni,Centella asiatica,Vata; Pitta,Kapha,False,Tikta,Laghu,Sheeta,Madhura
+Vatsanabha,Aconitum ferox,Vata,Pitta; Kapha,False,Tikta; Katu,Tikshna; Laghu,Ushna,Katu
+Ushira,Chrysopogon zizanioides,Pitta; Vata,Kapha,False,Tikta; Madhura,Laghu; Snigdha,Sheeta,Madhura
+Kiratatikta,Swertia chirata,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Shilajit,Asphaltum punjabianum,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu,Ushna,Katu
+Kusha,Desmostachya bipinnata,Pitta,Kapha; Vata,False,Tikta,Laghu,Sheeta,Katu
+Bimbi,Coccinia grandis,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Nirgundi,Vitex negundo,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Tagetes,Tagetes erecta,Pitta,Vata,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Kachura,Curcuma zedoaria,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu,Ushna,Katu
+Shati,Hedychium spicatum,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu,Ushna,Katu
+Bhanga,Cannabis sativa,Vata,Pitta; Kapha,False,Tikta,Laghu,Ushna,Katu
+Mochras,Bombax ceiba,Pitta,Kapha,False,Kashaya,Guru,Sheeta,Katu
+Jivanti,Leptadenia reticulata,Vata; Pitta,Kapha,False,Madhura,Snigdha,Sheeta,Madhura
+Makoy,Solanum nigrum,Pitta,Vata; Kapha,False,Tikta,Laghu,Sheeta,Katu
+Kampillaka,Mallotus philippensis,Kapha; Pitta,Vata,False,Tikta; Kashaya,Laghu,Ushna,Katu
+Amlavetasa,Garcinia pedunculata,Kapha,Pitta,False,Amla; Katu,Laghu; Ruksha,Ushna,Katu
+Ardraka,Zingiber officinale,Vata; Kapha,Pitta,False,Katu,Laghu; Snigdha,Ushna,Madhura
+Parijata,Nyctanthes arbor-tristis,Vata; Pitta,Kapha,False,Tikta,Laghu,Ushna,Katu
+Rajika,Brassica juncea,Kapha,Pitta; Vata,False,Katu,Laghu; Tikshna,Ushna,Katu
+Rakta Chandana,Pterocarpus santalinus,Pitta,Kapha,False,Tikta; Kashaya,Guru; Snigdha,Sheeta,Katu
+Surana,Amorphophallus paeoniifolius,Vata; Kapha,Pitta,False,Katu; Tikta,Guru; Snigdha,Ushna,Katu
+Vasa,Adhatoda vasica,Pitta,Vata,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Lajjalu,Mimosa pudica,Pitta,Vata; Kapha,False,Tikta,Laghu,Sheeta,Katu
+Manjistha,Rubia cordifolia,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu,Sheeta,Madhura
+Atibala,Abutilon indicum,Vata,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Karvellaka,Momordica charantia,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Katuki,Picrorhiza kurroa,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Yastimadhu,Glycyrrhiza glabra,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Haritaki,Terminalia chebula,tridosha,,True,Kashaya; Madhura; Amla; Katu; Tikta,Laghu; Ruksha,Ushna,Madhura
+Bibhitaki,Terminalia bellirica,Kapha; Pitta,Vata,False,Kashaya,Laghu; Ruksha,Ushna,Madhura
+Pippali,Piper longum,Vata; Kapha,Pitta,False,Katu,Laghu; Snigdha; Tikshna,Ushna,Madhura
+Maricha,Piper nigrum,Vata; Kapha,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Shunthi,Zingiber officinale,Vata; Kapha,Pitta,False,Katu,Laghu; Snigdha,Ushna,Madhura
+Brahmi,Bacopa monnieri,Vata; Pitta,Kapha,False,Tikta; Kashaya,Laghu,Sheeta,Madhura
+Vidanga,Embelia ribes,Vata; Kapha,Pitta,False,Katu; Kashaya,Laghu; Ruksha; Tikshna,Ushna,Katu
+Arjuna,Terminalia arjuna,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Punarnava,Boerhavia diffusa,Pitta; Kapha,Vata,False,Madhura; Tikta; Kashaya,Laghu; Ruksha,Ushna,Madhura
+Vacha,Acorus calamus,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Hingu,Ferula assa-foetida,Vata; Kapha,Pitta,False,Katu,Laghu; Snigdha; Tikshna,Ushna,Katu
+Jeeraka,Cuminum cyminum,Vata; Kapha,Pitta,False,Katu,Laghu; Ruksha,Ushna,Katu
+Dhanyaka,Coriandrum sativum,tridosha,,True,Kashaya; Tikta,Laghu; Snigdha,Ushna,Madhura
+Methi,Trigonella foenum-graecum,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Snigdha,Ushna,Katu
+Shallaki,Boswellia serrata,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Sheeta,Katu
+Jyotishmati,Celastrus paniculatus,Vata; Kapha,Pitta,False,Katu; Tikta,Tikshna; Sara,Ushna,Katu
+Japa,Hibiscus rosa-sinensis,Pitta; Kapha,Vata,False,Kashaya; Madhura,Laghu; Ruksha,Sheeta,Katu
+Kamala,Nelumbo nucifera,Pitta; Kapha,Vata,False,Madhura; Kashaya,Laghu; Snigdha,Sheeta,Madhura
+Ketaki,Pandanus odorifer,Pitta; Kapha,Vata,False,Tikta; Madhura,Laghu,Ushna,Katu
+Atasi,Linum usitatissimum,Vata,Pitta; Kapha,False,Madhura,Guru; Snigdha,Ushna,Katu
+Tila,Sesamum indicum,Vata,Pitta; Kapha,False,Madhura; Kashaya,Guru; Snigdha,Ushna,Madhura
+Brihati,Solanum indicum,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Gokshura,Tribulus terrestris,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Hamsapadi,Adiantum lunulatum,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Lavanga,Syzygium aromaticum,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Sheeta,Katu
+Nagakesara,Mesua ferrea,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Ushna,Katu
+Sarpagandha,Rauvolfia serpentina,Vata; Kapha,Pitta,False,Tikta,Ruksha,Ushna,Katu
+Varuna,Crateva nurvala,Vata; Kapha,Pitta,False,Tikta; Kashaya,Laghu; Ruksha,Ushna,Katu
+Aragwadha,Cassia fistula,Pitta; Kapha,Vata,False,Madhura; Tikta,Guru; Snigdha,Sheeta,Madhura
+Apamarga,Achyranthes aspera,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Trivrit,Operculina turpethum,Pitta; Kapha,Vata,False,Katu; Tikta,Laghu; Ruksha; Tikshna,Ushna,Katu
+Durva,Cynodon dactylon,Pitta; Kapha,Vata,False,Madhura; Kashaya,Laghu,Sheeta,Madhura
+Jatiphala,Myristica fragrans,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Kulattha,Macrotyloma uniflorum,Vata; Kapha,Pitta,False,Kashaya,Laghu; Ruksha,Ushna,Amla
+Amra,Mangifera indica,Vata; Pitta,Kapha,False,Madhura; Kashaya,Guru; Snigdha,Sheeta,Madhura
+Jambu,Syzygium cumini,Pitta; Kapha,Vata,False,Kashaya; Madhura,Laghu; Ruksha,Sheeta,Katu
+Snuhi,Euphorbia neriifolia,Kapha; Vata,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Kasani,Cichorium intybus,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Ushna,Katu
+Sharapunkha,Tephrosia purpurea,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Ushna,Katu
+Prishniparni,Uraria picta,tridosha,,True,Madhura; Tikta,Guru,Ushna,Madhura
+Jayapala,Croton tiglium,Kapha; Vata,Pitta,False,Katu,Guru; Tikshna,Ushna,Katu
+Gunja,Abrus precatorius,Vata; Kapha,Pitta,False,Tikta; Kashaya,Laghu; Ruksha,Ushna,Katu
+Karavira,Nerium oleander,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Kadamba,Neolamarckia cadamba,Pitta; Kapha,Vata,False,Tikta; Kashaya,Ruksha,Sheeta,Katu
+Badara,Ziziphus mauritiana,Vata; Pitta,Kapha,False,Madhura; Amla,Guru; Snigdha,Sheeta,Madhura
+Kapittha,Limonia acidissima,Vata; Kapha,Pitta,False,Kashaya; Amla,Laghu; Ruksha,Sheeta,Katu
+Kharjura,Phoenix dactylifera,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Langali,Gloriosa superba,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Kankola,Piper cubeba,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Mudga,Vigna radiata,Pitta; Kapha,Vata,False,Madhura; Kashaya,Laghu; Ruksha,Sheeta,Madhura
+Masura,Lens culinaris,Pitta; Kapha,Vata,False,Madhura; Kashaya,Laghu; Ruksha,Sheeta,Madhura
+Ishwari,Aristolochia indica,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Priyangu,Callicarpa macrophylla,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Dhattura,Datura metel,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Ativisha,Aconitum heterophyllum,Pitta; Kapha,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Vamsha,Bambusa bambos,Pitta; Kapha,Vata,False,Madhura; Kashaya,Laghu; Ruksha,Sheeta,Madhura
+Palandu,Allium cepa,Vata,Pitta; Kapha,False,Madhura; Katu,Guru; Snigdha,Ushna,Madhura
+Trapusha,Cucumis sativus,Pitta,Vata; Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Hrivera,Coleus vettiveroides,Pitta,Vata; Kapha,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Plaksha,Ficus infectoria,Pitta; Kapha,Vata,False,Kashaya,Guru; Ruksha,Sheeta,Katu
+Udumbara,Ficus racemosa,Pitta; Kapha,Vata,False,Kashaya,Guru; Ruksha,Sheeta,Katu
+Ashwattha,Ficus religiosa,Pitta; Kapha,Vata,False,Kashaya,Guru; Ruksha,Sheeta,Katu
+Puga,Areca catechu,Kapha,Pitta; Vata,False,Kashaya,Guru; Ruksha,Sheeta,Katu
+Kakamachi,Solanum nigrum,tridosha,,True,Tikta,Laghu; Snigdha,Ushna,Katu
+Mishreya,Foeniculum vulgare,Vata; Pitta,Kapha,False,Madhura,Laghu; Snigdha,Sheeta,Madhura
+Shankhpushpi,Convolvulus pluricaulis,Vata; Pitta,Kapha,False,Tikta,Snigdha,Sheeta,Madhura
+Kushtha,Saussurea costus,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Madanaphala,Catunaregam spinosa,Kapha; Vata,Pitta,False,Madhura; Tikta,Laghu; Ruksha,Ushna,Katu
+Patha,Cissampelos pareira,tridosha,,True,Tikta,Laghu; Tikshna,Ushna,Katu
+Saptaparna,Alstonia scholaris,Kapha; Vata,Pitta,False,Tikta; Kashaya,Laghu; Snigdha,Ushna,Katu
+Prasarini,Paederia foetida,Vata; Kapha,Pitta,False,Tikta,Guru,Ushna,Katu
+Asana,Pterocarpus marsupium,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Sheeta,Katu
+Kushmanda,Benincasa hispida,Vata; Pitta,Kapha,False,Madhura,Laghu; Snigdha,Sheeta,Madhura
+Vartaku,Solanum melongena,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Dronapushpi,Leucas cephalotes,Pitta; Kapha,Vata,False,Katu; Lavana,Guru; Ruksha,Ushna,Madhura
+Swarnapatri,Cassia angustifolia,Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha; Tikshna,Ushna,Katu
+Chandrashura,Lepidium sativum,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Snigdha,Ushna,Katu
+Chirabilva,Holoptelea integrifolia,Kapha; Pitta,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Ushna,Katu
+Himsra,Capparis sepiaria,Pitta; Kapha,Vata,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Karkatashringi,Pistacia integerrima,Vata; Kapha,Pitta,False,Tikta; Kashaya,Guru,Ushna,Katu
+Katphala,Myrica esculenta,Vata; Kapha,Pitta,False,Kashaya; Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Krishna Jeeraka,Carum carvi,Vata; Kapha,Pitta,False,Katu,Laghu; Ruksha,Ushna,Katu
+Murva,Marsdenia tenacissima,Kapha; Pitta,Vata,False,Tikta,Guru,Ushna,Katu
+Paribhadra,Erythrina variegata,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu,Ushna,Katu
+Shyonaka,Oroxylum indicum,Vata; Kapha,Pitta,False,Kashaya; Tikta,Laghu; Ruksha,Ushna,Katu
+Alabu,Lagenaria siceraria,Pitta,Vata; Kapha,False,Madhura,Guru; Ruksha,Sheeta,Madhura
+Vriddhadaru,Argyreia nervosa,Vata; Kapha,Pitta,False,Madhura; Tikta,Laghu; Snigdha,Ushna,Madhura
+Narikela,Cocos nucifera,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Talamuli,Curculigo orchioides,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Saireyaka,Barleria prionitis,Kapha; Vata,Pitta,False,Tikta; Madhura,Snigdha,Ushna,Katu
+Varahikanda,Dioscorea bulbifera,Vata; Kapha,Pitta,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Ankola,Alangium salviifolium,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu; Snigdha,Ushna,Katu
+Changeri,Oxalis corniculata,Vata; Kapha,Pitta,False,Amla,Laghu; Ruksha,Ushna,Amla
+Koshataki,Luffa acutangula,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Ushna,Katu
+Tanduliyaka,Amaranthus spinosus,Pitta; Kapha,Vata,False,Madhura,Laghu; Ruksha,Sheeta,Madhura
+Ingudi,Balanites aegyptiaca,Kapha; Vata,Pitta,False,Tikta; Katu,Tikshna; Snigdha,Ushna,Katu
+Jivaka,Malaxis acuminata,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Rishabhaka,Malaxis muscifera,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Meda,Polygonatum cirrhifolium,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Kakoli,Fritillaria roylei,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Dhamasa,Fagonia indica,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Rohisha,Cymbopogon martinii,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Suryavarta,Cleome gynandra,Vata; Kapha,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Gangeruki,Grewia tenax,Vata; Pitta,Kapha,False,Madhura; Kashaya,Snigdha,Sheeta,Madhura
+Kumbhika,Pistia stratiotes,Pitta; Kapha,Vata,False,Tikta; Katu,Laghu; Ruksha,Sheeta,Katu
+Sthuneyaka,Taxus baccata,Kapha; Vata,Pitta,False,Tikta; Kashaya,Laghu,Ushna,Katu
+Utingana,Blepharis edulis,Vata,Pitta; Kapha,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Kumari,Aloe vera,Pitta; Kapha,Vata,False,Tikta,Guru; Snigdha,Sheeta,Katu
+Asthishrinkhala,Cissus quadrangularis,Vata; Kapha,Pitta,False,Madhura,Laghu; Ruksha,Ushna,Madhura
+Bharangi,Rotheca serrata,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Ruksha,Ushna,Katu
+Arka,Calotropis gigantea,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Indravaruni,Citrullus colocynthis,Pitta; Kapha,Vata,False,Tikta,Laghu; Tikshna,Ushna,Katu
+Kadali,Musa paradisiaca,Pitta,Vata; Kapha,False,Madhura; Kashaya,Guru; Snigdha,Sheeta,Madhura
+Tintidika,Tamarindus indica,Vata,Pitta; Kapha,False,Amla,Guru; Ruksha,Ushna,Amla
+Rudraksha,Elaeocarpus ganitrus,Vata; Kapha,Pitta,False,Madhura,Guru,Ushna,Madhura
+Putranjivaka,Putranjiva roxburghii,Vata; Pitta,Kapha,False,Madhura; Katu,Guru,Sheeta,Madhura
+Padmaka,Prunus cerasoides,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu,Sheeta,Katu
+Pilu,Salvadora persica,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Simsapa,Dalbergia sissoo,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Ushna,Katu
+Arishtaka,Sapindus mukorossi,tridosha,,True,Tikta,Laghu; Tikshna,Ushna,Katu
+Visha Tinduka,Strychnos nux-vomica,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Devadali,Luffa echinata,Kapha; Pitta,Vata,False,Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Dhava,Anogeissus latifolia,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Gajapippali,Scindapsus officinalis,Vata; Kapha,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Granthiparni,Angelica glauca,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Hapusa,Juniperus communis,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Kakajangha,Peristrophe paniculata,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Karmaranga,Averrhoa carambola,Vata,Pitta; Kapha,False,Amla; Madhura,Laghu,Sheeta,Amla
+Kasheruka,Scirpus grossus,Vata; Pitta,Kapha,False,Madhura; Kashaya,Guru; Snigdha,Sheeta,Madhura
+Kembuka,Hellenia speciosa,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Koshamra,Schleichera oleosa,Kapha; Vata,Pitta,False,Amla,Guru; Snigdha,Ushna,Amla
+Latakaranja,Caesalpinia crista,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Lavali,Phyllanthus acidus,Vata,Pitta; Kapha,False,Amla,Laghu; Ruksha,Ushna,Amla
+Mahanimba,Melia azedarach,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Nagabala,Grewia hirsuta,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Pattanga,Biancaea sappan,Pitta,Vata; Kapha,False,Kashaya; Madhura,Guru,Sheeta,Katu
+Sarja,Vateria indica,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Snigdha,Sheeta,Katu
+Somavalli,Sarcostemma acidum,Vata; Pitta,Kapha,False,Amla,Laghu,Ushna,Madhura
+Vyaghranakhi,Capparis zeylanica,Kapha; Vata,Pitta,False,Tikta,Laghu; Tikshna,Ushna,Katu
+Akshotaka,Juglans regia,Vata,Pitta; Kapha,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Chakshushya,Cassia absus,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Sheeta,Katu
+Dadrughna,Senna alata,Pitta; Kapha,Vata,False,Katu,Laghu; Ruksha,Ushna,Katu
+Bandhuka,Pentapetes phoenicea,Pitta,Vata; Kapha,False,Madhura; Kashaya,Snigdha,Sheeta,Madhura
+Bhutakeshi,Selinum wallichianum,Vata; Kapha,Pitta,False,Tikta,Laghu,Ushna,Katu
+Riddhi,Habenaria intermedia,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Vriddhi,Habenaria edgeworthii,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Akarakarabha,Anacyclus pyrethrum,Vata; Kapha,Pitta,False,Katu,Ruksha; Tikshna,Ushna,Katu
+Mahabala,Sida rhombifolia,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Chirayata,Swertia chirayita,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Jalapippali,Phyla nodiflora,Pitta,Vata; Kapha,False,Tikta,Laghu,Sheeta,Katu
+Kasamarda,Senna occidentalis,Kapha; Vata,Pitta,False,Tikta; Madhura,Laghu; Ruksha,Ushna,Katu
+Bhumyamalaki,Phyllanthus niruri,Pitta; Kapha,Vata,False,Tikta; Kashaya; Madhura,Laghu; Ruksha,Sheeta,Madhura
+Dugdhika,Euphorbia hirta,Kapha; Vata,Pitta,False,Katu; Tikta,Guru,Ushna,Katu
+Grinjana,Daucus carota,Vata; Kapha,Pitta,False,Madhura; Tikta,Guru; Tikshna,Ushna,Madhura
+Ishabgula,Plantago ovata,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Kalajaji,Nigella sativa,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Karira,Capparis decidua,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Karpasa,Gossypium herbaceum,Vata,Pitta; Kapha,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Kataka,Strychnos potatorum,Vata; Kapha,Pitta,False,Madhura; Kashaya,Laghu; Snigdha,Sheeta,Madhura
+Kovidara,Bauhinia variegata,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Madayantika,Lawsonia inermis,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Madhukarkati,Citrus maxima,Vata; Pitta,Kapha,False,Amla; Madhura,Laghu,Sheeta,Amla
+Mulaka,Raphanus sativus,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Nimbu,Citrus limon,Vata,Pitta,False,Amla,Laghu; Tikshna,Ushna,Madhura
+Palankya,Spinacia oleracea,Pitta,Vata; Kapha,False,Kashaya; Madhura,Guru,Sheeta,Madhura
+Panasa,Artocarpus heterophyllus,Vata; Pitta,Kapha,False,Madhura; Kashaya,Guru; Snigdha,Sheeta,Madhura
+Parnayavani,Coleus amboinicus,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Priyala,Buchanania lanzan,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Rasna,Pluchea lanceolata,Vata; Kapha,Pitta,False,Tikta,Guru,Ushna,Katu
+Satyanashi,Argemone mexicana,Kapha; Pitta,Vata,False,Tikta,Laghu; Ruksha,Ushna,Katu
+Shvet Musli,Chlorophytum borivilianum,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Taruni,Rosa centifolia,Pitta,Vata; Kapha,False,Tikta; Kashaya; Madhura,Laghu; Snigdha,Sheeta,Madhura
+Vanapsa,Viola odorata,Pitta; Kapha,Vata,False,Madhura; Tikta,Snigdha,Sheeta,Madhura
+Vathada,Prunus dulcis,Vata,Pitta; Kapha,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Vetasa,Salix caprea,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Yuthika,Jasminum auriculatum,Pitta,Vata; Kapha,False,Tikta; Kashaya,Laghu; Snigdha,Sheeta,Katu
+Agastya,Sesbania grandiflora,Pitta,Vata; Kapha,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Amra Haridra,Curcuma amada,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Madhura
+Chavika,Piper chaba,Vata; Kapha,Pitta,False,Katu,Laghu; Ruksha,Ushna,Katu
+Raktamoola,Plumbago indica,Kapha; Vata,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Mudgaparni,Vigna trilobata,Vata; Pitta,Kapha,False,Madhura,Laghu; Snigdha,Sheeta,Madhura
+Mashaparni,Teramnus labialis,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Nili,Indigofera tinctoria,Vata; Kapha,Pitta,False,Tikta,Ruksha,Ushna,Katu
+Vrihi,Oryza sativa,Pitta,Vata; Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Yavasa,Alhagi maurorum,Pitta; Kapha,Vata,False,Madhura; Kashaya; Tikta,Laghu,Sheeta,Katu
+Utpala,Nymphaea nouchali,Pitta,Vata; Kapha,False,Madhura; Kashaya,Laghu; Snigdha,Sheeta,Madhura
+Shara,Saccharum munja,Vata; Pitta,Kapha,False,Madhura; Kashaya,Snigdha,Sheeta,Madhura
+Shankhini,Canscora decussata,Vata; Pitta,Kapha,False,Tikta,Laghu; Snigdha,Ushna,Katu
+Shana,Crotalaria juncea,Pitta; Kapha,Vata,False,Kashaya,Ruksha,Sheeta,Katu
+Shaka,Tectona grandis,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Renuka,Vitex agnus-castus,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Ruksha,Ushna,Katu
+Prativisha,Aconitum palmatum,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Ushna,Katu
+Prapunnada,Senna tora,Vata; Kapha,Pitta,False,Katu,Laghu; Ruksha,Ushna,Katu
+Nadi Hingu,Gardenia gummifera,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Lata Kasturi,Abelmoschus moschatus,Vata; Pitta,Kapha,False,Madhura; Tikta,Laghu; Snigdha,Sheeta,Madhura
+Lakuca,Artocarpus lacoocha,Kapha; Pitta,Vata,False,Amla; Kashaya,Guru,Ushna,Amla
+Karnikara,Pterospermum acerifolium,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Kankataka,Flacourtia indica,Vata; Kapha,Pitta,False,Amla,Laghu,Ushna,Amla
+Kalamba,Ipomoea aquatica,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Kakatikta,Luffa amara,Pitta; Kapha,Vata,False,Tikta,Laghu; Tikshna,Ushna,Katu
+Kadara,Senegalia suma,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Sheeta,Katu
+Jalavetasa,Salix tetrasperma,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Hijal,Barringtonia acutangula,Pitta; Kapha,Vata,False,Kashaya; Katu,Laghu; Ruksha,Sheeta,Katu
+Hastikarna Palasha,Leea macrophylla,Kapha; Vata,Pitta,False,Kashaya,Laghu; Ruksha,Ushna,Katu
+Ambasthaki,Hibiscus sabdariffa,Pitta,Vata; Kapha,False,Amla; Madhura,Laghu,Sheeta,Amla
+Kharbhuja,Cucumis melo,Pitta,Vata; Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Shrigataka,Trapa natans,Pitta,Vata; Kapha,False,Madhura; Kashaya,Guru; Snigdha,Sheeta,Madhura
+Tala,Borassus flabellifer,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Tilaparni,Cleome gynandra,Vata; Kapha,Pitta,False,Katu,Laghu; Tikshna,Ushna,Katu
+Varshabhu,Trianthema portulacastrum,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Godhuma,Triticum aestivum,Vata,Kapha; Pitta,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Adhaki,Cajanus cajan,Kapha; Pitta,Vata,False,Madhura; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Bakula,Mimusops elengi,Pitta; Kapha,Vata,False,Kashaya,Guru,Sheeta,Katu
+Bhurja,Betula utilis,Kapha,Pitta; Vata,False,Kashaya,Laghu,Ushna,Katu
+Bijapura,Citrus medica,Vata; Pitta,Kapha,False,Amla,Laghu; Snigdha,Ushna,Madhura
+Matsyakshi,Alternanthera sessilis,Pitta,Vata; Kapha,False,Tikta; Madhura,Laghu,Sheeta,Madhura
+Mayurashikha,Actiniopteris radiata,Pitta; Kapha,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Sheeta,Katu
+Nagadanti,Heliotropium indicum,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Nikochaka,Pistacia vera,Vata,Pitta; Kapha,False,Madhura,Guru; Snigdha,Ushna,Madhura
+Rajamasha,Vigna unguiculata,,Vata; Pitta; Kapha,False,Madhura; Kashaya,Guru; Ruksha,Sheeta,Katu
+Sarpaksi,Ophiorrhiza mungos,Pitta; Kapha,Vata,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Satina,Pisum sativum,Pitta; Kapha,Vata,False,Madhura; Kashaya,Laghu; Ruksha,Sheeta,Madhura
+Upodika,Basella alba,Vata; Pitta,Kapha,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Saptala,Senegalia rugata,Kapha; Pitta,Vata,False,Tikta; Kashaya,Laghu; Ruksha,Sheeta,Katu
+Suranjana,Colchicum luteum,Vata; Kapha,Pitta,False,Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Tumburu,Zanthoxylum armatum,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Alarka,Calotropis procera,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Kusumbha,Carthamus tinctorius,Vata; Kapha,Pitta,False,Katu; Madhura,Guru; Tikshna,Ushna,Katu
+Akhuparni,Ipomoea reniformis,Pitta; Kapha,Vata,False,Tikta,Laghu,Sheeta,Katu
+Putikaranja,Caesalpinia bonduc,Kapha; Vata,Pitta,False,Tikta; Katu,Laghu; Tikshna,Ushna,Katu
+Amlaparni,Rheum emodi,Kapha; Pitta,Vata,False,Tikta,Laghu; Tikshna,Ushna,Katu
+Aranya Jeeraka,Centratherum anthelminticum,Kapha; Vata,Pitta,False,Tikta,Laghu; Tikshna,Ushna,Katu
+Bhadra,Aerva lanata,Pitta; Kapha,Vata,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Bhumi Jambuka,Premna herbacea,Vata; Kapha,Pitta,False,Tikta,Laghu,Ushna,Katu
+Bhutika,Cymbopogon citratus,Vata; Kapha,Pitta,False,Katu; Tikta,Laghu; Tikshna,Ushna,Katu
+Chakragaja,Celosia argentea,Pitta; Kapha,Vata,False,Madhura,Laghu; Ruksha,Sheeta,Madhura
+Chhatraka,Agaricus campestris,Vata,Kapha; Pitta,False,Madhura,Guru; Snigdha,Sheeta,Madhura
+Dhamargava,Luffa cylindrica,Kapha; Pitta,Vata,False,Tikta,Laghu; Ruksha,Ushna,Katu
+Gavedhuka,Coix lacryma-jobi,Kapha; Pitta,Vata,False,Madhura; Kashaya,Laghu; Ruksha,Ushna,Madhura
+Kshavaka,Centipeda minima,Kapha; Vata,Pitta,False,Katu,Tikshna; Laghu,Ushna,Katu
+Kurabaka,Barleria cristata,Vata; Kapha,Pitta,False,Tikta,Laghu,Ushna,Katu
+Mamsarohini,Soymida febrifuga,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Medasaka,Litsea glutinosa,Vata; Pitta,Kapha,False,Madhura; Kashaya,Guru; Snigdha,Ushna,Madhura
+Aivana,Hyoscyamus niger,Vata; Kapha,Pitta,False,Tikta; Katu,Guru; Ruksha,Ushna,Katu
+Asphota,Clitoria ternatea,Vata; Pitta,Kapha,False,Tikta; Kashaya,Laghu,Sheeta,Katu
+Abhishuka,Pistacia vera,Vata,Kapha; Pitta,False,Madhura; Kashaya,Guru; Snigdha,Ushna,Madhura
+Muranji,Moringa concanensis,Kapha; Vata,Pitta,False,Katu; Tikta,Laghu; Ruksha; Tikshna,Ushna,Katu
+Mayaphala,Quercus infectoria,Pitta; Kapha,Vata,False,Kashaya,Laghu; Ruksha,Sheeta,Katu
+Kankra,Bruguiera gymnorhiza,Kapha; Pitta,Vata,False,Kashaya; Tikta,Laghu; Ruksha,Sheeta,Katu
+Sadapushpi,Catharanthus roseus,Kapha; Pitta,Vata,False,Tikta,Laghu; Ruksha,Sheeta,Katu
+Sahachara,Barleria prionitis,Vata; Kapha,Pitta,False,Tikta; Madhura,Laghu; Snigdha,Ushna,Katu

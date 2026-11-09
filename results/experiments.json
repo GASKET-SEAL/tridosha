@@ -1,0 +1,242 @@
+{
+  "default_experiment": {
+    "controlled": {
+      "final_distance": 4.533934981269737e-07,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 2.6000000000000005,
+      "integrated_error": 2.373053007803011,
+      "control_effort": 0.17750214117430457,
+      "stability": {
+        "eigenvalues": [
+          -0.89618802153517,
+          -0.8038119784648301
+        ],
+        "stable": true,
+        "natural_decay_bound": 0.32,
+        "local_time_constant": 1.2440720302649158
+      }
+    },
+    "natural": {
+      "final_distance": 0.0010644586501907998,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 6.4,
+      "integrated_error": 4.710984535943281,
+      "control_effort": 0.0,
+      "stability": {
+        "eigenvalues": [
+          -0.44618802153517,
+          -0.35381197846483
+        ],
+        "stable": true,
+        "natural_decay_bound": 0.32,
+        "local_time_constant": 2.826359933710959
+      }
+    }
+  },
+  "analytic_max_error": 1.2988410347247736e-10,
+  "sensitivity": [
+    {
+      "decay_scale": 0.8,
+      "coupling": 0.03,
+      "controlled_settling": 3.3000000000000007,
+      "natural_settling": 10.5,
+      "error_reduction": 0.5916035010219336
+    },
+    {
+      "decay_scale": 0.8,
+      "coupling": 0.06,
+      "controlled_settling": 2.8000000000000007,
+      "natural_settling": 7.5,
+      "error_reduction": 0.5259787103636424
+    },
+    {
+      "decay_scale": 0.8,
+      "coupling": 0.09,
+      "controlled_settling": 2.5,
+      "natural_settling": 5.700000000000001,
+      "error_reduction": 0.4732800054583003
+    },
+    {
+      "decay_scale": 1.0,
+      "coupling": 0.03,
+      "controlled_settling": 3.0,
+      "natural_settling": 8.700000000000001,
+      "error_reduction": 0.5552425671829961
+    },
+    {
+      "decay_scale": 1.0,
+      "coupling": 0.06,
+      "controlled_settling": 2.6000000000000005,
+      "natural_settling": 6.4,
+      "error_reduction": 0.4962723843185245
+    },
+    {
+      "decay_scale": 1.0,
+      "coupling": 0.09,
+      "controlled_settling": 2.3000000000000007,
+      "natural_settling": 5.100000000000001,
+      "error_reduction": 0.4488230359145289
+    },
+    {
+      "decay_scale": 1.2,
+      "coupling": 0.03,
+      "controlled_settling": 2.8000000000000007,
+      "natural_settling": 7.4,
+      "error_reduction": 0.5229155989951556
+    },
+    {
+      "decay_scale": 1.2,
+      "coupling": 0.06,
+      "controlled_settling": 2.4000000000000004,
+      "natural_settling": 5.600000000000001,
+      "error_reduction": 0.46980111432870564
+    },
+    {
+      "decay_scale": 1.2,
+      "coupling": 0.09,
+      "controlled_settling": 2.1000000000000005,
+      "natural_settling": 4.5,
+      "error_reduction": 0.426871057603734
+    }
+  ],
+  "gain_sweep": [
+    {
+      "gain": 0,
+      "final_distance": 0.0010644586501907998,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 6.4,
+      "integrated_error": 4.710984535943281,
+      "control_effort": 0.0
+    },
+    {
+      "gain": 0.15,
+      "final_distance": 7.742269954422912e-05,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 4.4,
+      "integrated_error": 3.5522634156645183,
+      "control_effort": 0.03292022377764
+    },
+    {
+      "gain": 0.45,
+      "final_distance": 4.533934981269737e-07,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 2.6000000000000005,
+      "integrated_error": 2.373053007803011,
+      "control_effort": 0.17750214117430457
+    },
+    {
+      "gain": 0.9,
+      "final_distance": 2.3867846506442396e-10,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 1.5,
+      "integrated_error": 1.5823812277215843,
+      "control_effort": 0.4321225876074
+    },
+    {
+      "gain": 1.5,
+      "final_distance": 1.1500742147027733e-14,
+      "peak_distance": 1.055935604097144,
+      "settling_days": 0.9000000000000004,
+      "integrated_error": 1.0954915153369118,
+      "control_effort": 0.7758469394758337
+    }
+  ],
+  "calibration": {
+    "kind": "synthetic parameter recovery only",
+    "seed": 91,
+    "true_decay": [
+      0.3,
+      0.22,
+      0.14
+    ],
+    "fitted_decay": [
+      0.30028534233687987,
+      0.22068333641687657,
+      0.13916642483312205
+    ],
+    "success": true,
+    "jacobian_rank": 3,
+    "heldout_rmse_before": 0.13759104933159483,
+    "heldout_rmse_after": 0.00030477176056969583
+  },
+  "cohort_benchmark": {
+    "West to North": {
+      "n_train": 131,
+      "n_test": 86,
+      "features": 105,
+      "selected_C": 1,
+      "accuracy": 0.9767441860465116,
+      "balanced_accuracy": 0.9743589743589745,
+      "macro_f1": 0.9771428571428572,
+      "log_loss": 0.11521774931785861,
+      "accuracy_bootstrap_95": [
+        0.9418604651162791,
+        1.0
+      ],
+      "confusion_labels": [
+        "Vata",
+        "Pitta",
+        "Kapha"
+      ],
+      "confusion_matrix": [
+        [
+          34,
+          0,
+          0
+        ],
+        [
+          2,
+          24,
+          0
+        ],
+        [
+          0,
+          0,
+          26
+        ]
+      ],
+      "majority_accuracy": 0.3953488372093023,
+      "fixed_C_accuracy": 0.9767441860465116,
+      "fixed_C_log_loss": 0.20410678343310443
+    },
+    "North to West": {
+      "n_train": 86,
+      "n_test": 131,
+      "features": 105,
+      "selected_C": 10,
+      "accuracy": 0.8473282442748091,
+      "balanced_accuracy": 0.8668782532549217,
+      "macro_f1": 0.8458138204973649,
+      "log_loss": 0.35780432959437997,
+      "accuracy_bootstrap_95": [
+        0.7862595419847328,
+        0.9083969465648855
+      ],
+      "confusion_labels": [
+        "Vata",
+        "Pitta",
+        "Kapha"
+      ],
+      "confusion_matrix": [
+        [
+          45,
+          14,
+          0
+        ],
+        [
+          1,
+          29,
+          1
+        ],
+        [
+          0,
+          4,
+          37
+        ]
+      ],
+      "majority_accuracy": 0.45038167938931295,
+      "fixed_C_accuracy": 0.8854961832061069,
+      "fixed_C_log_loss": 0.3737636564720629
+    }
+  }
+}

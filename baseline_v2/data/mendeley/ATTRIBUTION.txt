@@ -1,0 +1,3 @@
+Prakriti constitutions of North Indian and Western Indian (Vadu) cohorts. Mendeley Data, V1, doi:10.17632/dyx5cgxdrf.1. Licence CC BY 4.0.
+Related paper: Tiwari P, Kutum R, Sethi T, et al. PLoS ONE 12(10): e0185380 (2017). Files here are unmodified copies (Western_India.csv, Northern_India.csv);
+the two ranking/lift CSVs were computed by this project.

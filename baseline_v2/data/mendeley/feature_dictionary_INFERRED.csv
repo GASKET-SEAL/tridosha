@@ -1,0 +1,15 @@
+feature,inferred_meaning,answers_in_order,points_to,confidence
+F1,Body development (muscle/build),Weaklydeveloped | Moderatelydeveloped | Welldeveloped,Vata | Pitta | Kapha,medium
+F2,Frame breadth (one body measure),Thin/Narrow | Medium | Broad,Vata | Pitta | Kapha,medium
+F5,Frame breadth (a second body measure),Thin/Narrow | Medium | Broad,Vata | Pitta | Kapha,low
+F59,Weight gain/loss pattern,Difficultyingaining | Stable or Gainandloseeasily | Gaineasilyandlosewithdifficulty,Vata | Pitta | Kapha,high
+F55,Sleep depth,Shallow | Sound | Deep,Vata | Pitta | Kapha,high
+F29,Skin nature,Dry or Seasonal/Variable | Oily | Normal,Vata | Pitta | Kapha,medium
+F43,Bowel tendency,Constipation | Loosemotion,Vata | Pitta,medium
+F74,Steadiness (mind/behaviour),Unsteady | Sharp/Accurate | Firm/Steady,Vata | Pitta | Kapha,low
+F75,Thought process,Wavering/Easilydeviated | Sharp/Accurate/Spontaneous | Wellthoughtof,Vata | Pitta | Kapha,medium
+F77,Steadiness (second item),Unsteady | Sharp/Accurate | Firm/Steady,Vata | Pitta | Kapha,low
+F30,Thickness of a tissue (skin or hair),Thin | Thick,Vata | Kapha,low
+F28,Complexion,Dark | FairReddish | Whitish/FairPink,Vata | Pitta | Kapha,medium
+F37,Regularity of a habit (appetite or bowel),Irregular | Regular,Vata | Kapha,low
+F90,Speed of a daily activity,Quickly | Moderately | Slowly,Vata | Pitta | Kapha,low

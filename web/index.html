@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>Tridosha | Simulation Lab</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="#simulation"><span class="brand-icon">△</span><span>tridosha</span></a>
+  <nav aria-label="Main navigation">
+    <a class="active" href="#simulation">Simulation</a>
+    <a href="#evidence">Validation</a>
+  </nav>
+</header>
+
+<main>
+<section id="simulation">
+  <div class="page-heading">
+    <h1>Simulation lab</h1>
+    <button id="export" class="button secondary" disabled>↓ Export results</button>
+  </div>
+
+  <div class="lab-grid">
+    <form id="controls" class="panel settings">
+      <div class="panel-heading"><h2>Experiment setup</h2><button type="button" id="reset-experiment" class="text-button">Reset</button></div>
+
+      <label class="field-label" for="scenario">Starting scenario</label>
+      <select id="scenario">
+        <option value="vata">Vata perturbation</option>
+        <option value="pitta">Pitta perturbation</option>
+        <option value="kapha">Kapha perturbation</option>
+        <option value="equilibrium">At equilibrium</option>
+      </select>
+
+      <fieldset>
+        <legend><span class="step">1</span>Prakriti</legend>
+        <div class="three-inputs">
+          <label><span class="dot vata-bg"></span>Vata<input id="p0" type="number" min="1" max="98" value="34" required></label>
+          <label><span class="dot pitta-bg"></span>Pitta<input id="p1" type="number" min="1" max="98" value="33" required></label>
+          <label><span class="dot kapha-bg"></span>Kapha<input id="p2" type="number" min="1" max="98" value="33" required></label>
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend><span class="step">2</span>Disturbance &amp; recovery</legend>
+        <label class="slider-label" for="amplitude">Pulse strength <output id="amplitude-out">0.60</output></label>
+        <input id="amplitude" type="range" min="0" max="1.5" step=".05" value=".6">
+        <div class="range-label"><span>None</span><span>Strong</span></div>
+
+        <div class="two-inputs">
+          <label>Starts on day<input id="start" type="number" min="0" max="85" step=".5" value="3" required></label>
+          <label>Duration (days)<input id="duration" type="number" min="0" max="30" step=".5" value="2" required></label>
+        </div>
+
+        <label class="slider-label" for="gain">Feedback strength <output id="gain-out">0.45</output></label>
+        <input id="gain" type="range" min="0" max="1.5" step=".05" value=".45">
+        <div class="range-label"><span>Natural</span><span>Strong</span></div>
+
+        <label class="field-label" for="days">Simulation length</label>
+        <select id="days">
+          <option value="14">14 days</option>
+          <option value="21" selected>21 days</option>
+          <option value="30">30 days</option>
+          <option value="60">60 days</option>
+        </select>
+      </fieldset>
+
+      <details>
+        <summary>Advanced settings</summary>
+        <div class="three-inputs">
+          <label>Vata rate<input id="r0" type="number" value=".30" min=".03" max="2" step=".01" required></label>
+          <label>Pitta rate<input id="r1" type="number" value=".22" min=".03" max="2" step=".01" required></label>
+          <label>Kapha rate<input id="r2" type="number" value=".14" min=".03" max="2" step=".01" required></label>
+        </div>
+        <label class="field-label" for="coupling">Interaction strength<input id="coupling" type="number" min="0" max="1" step=".01" value=".06" required></label>
+      </details>
+
+      <button id="run" class="button primary" type="submit">Run simulation <span>→</span></button>
+      <p id="status" role="status" aria-live="polite"></p>
+    </form>
+
+    <div class="results">
+      <div class="metric-grid">
+        <article class="metric"><p>Stability</p><strong id="stable">—</strong></article>
+        <article class="metric"><p>Recovery time</p><strong id="recovery">—</strong><small id="recovery-note"></small></article>
+        <article class="metric"><p>Imbalance reduction</p><strong id="reduction">—</strong></article>
+      </div>
+
+      <article class="panel trajectory">
+        <div class="panel-heading"><h2>Return to balance</h2></div>
+        <div class="legend">
+          <span><i class="l-main"></i>With feedback</span>
+          <span><i class="dashed"></i>Natural recovery</span>
+          <span><i class="l-window"></i>Disturbance</span>
+        </div>
+        <svg id="recovery-chart" viewBox="0 0 760 260" role="img" aria-label="Distance from balance over time, with and without feedback"></svg>
+        <div class="chart-foot"><span>Deviation</span><span>Days →</span></div>
+      </article>
+
+      <div class="lower-grid">
+        <article class="panel composition">
+          <div class="panel-heading"><h2>Dosha triangle</h2></div>
+          <svg id="triangle" viewBox="0 0 360 270" role="img" aria-label="Triangle showing the path of Vata, Pitta and Kapha proportions"></svg>
+          <div class="triangle-legend"><span>◇ Prakriti</span><span>○ Start</span><span>● Selected day</span></div>
+        </article>
+
+        <article class="panel snapshot">
+          <div class="panel-heading"><h2>Day by day</h2><span id="day-label" class="badge">Day 0.0</span></div>
+          <label class="sr-only" for="scrubber">Select day</label>
+          <input id="scrubber" type="range" min="0" max="210" value="0" step="1">
+          <div id="shares"></div>
+          <div class="distance-box"><span>Deviation</span><strong id="selected-distance">—</strong></div>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="evidence" class="info-section">
+  <h2>Validation</h2>
+  <div id="evidence-content" class="model-grid"><article class="panel"><p class="muted">Loading…</p></article></div>
+</section>
+
+<footer><span class="footer-brand">△ tridosha</span><span>Educational model · not medical advice</span></footer>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

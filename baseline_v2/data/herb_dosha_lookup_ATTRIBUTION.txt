@@ -1,0 +1,1 @@
+Source: Varshney, S. (2026). Amidha Ayurveda Herb Database v2.0. Zenodo. DOI 10.5281/zenodo.17475351. Licence CC BY 4.0. Columns selected and joined into text; no values changed.
